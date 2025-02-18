@@ -22,13 +22,15 @@
 |            |chat.                           | keinen Stream mehr zu verpassen       | 
 |            |                                |-> https://discord.gg/49WrfmkQFW       |
 |------------|--------------------------------|---------------------------------------|
-|!pain       |Signalisiert Schmerz. Oft       |@friesennunge
-|            |psychisch.                      |
-|            |                                |
+|!pain       |Signalisiert Schmerz. Oft       |friesenjunge227 will nicht mehr.       |
+|            |psychisch.                      |friesenjunge227 kann nicht mehr.       |
+|            |                                |friesenjunge227 hält das alles nicht   |
+|            |                                |mehr aus.                              |
 |------------|--------------------------------|---------------------------------------|
-|!halbespain |Halbes pain oder doppelt?!      |Halbes Pain ist doppelt so stark wie   |
+|!halbespain |Halbes pain oder doppeltes?!    |Halbes Pain ist doppelt so stark wie   |
 |            |                                |Ganzes Pain!                           |
 |------------|--------------------------------|---------------------------------------|
+|!love       |Zeigt den Wert der Liebe        |
 
 
 |!nootnoot   |Noot Noot! @Yowo99              |°o° Noot Noot Cheergi                  |
