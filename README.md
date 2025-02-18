@@ -12,8 +12,8 @@
 [raw] (click on raw)
 |command     |Funktion                        |Rückmeldung im chat                    |
 |------------|--------------------------------|---------------------------------------|
-|!lurk       |Gibt dem Streamer feedback, dass|@friesenjunge227, ist eben Kekse holen.|
-|            |man AFK ist.                    |Wehe du bringst keine mit! Madge       |
+|!lurk       |Setzt den "AFK-Staus".          |@friesenjunge227, ist eben Kekse holen.|
+|            |                                |Wehe du bringst keine mit! Madge       |
 |------------|--------------------------------|---------------------------------------|
 |!unlurk     |Hebt den "AFK-Status" auf.      |@friesenjunge227, ist back und hat     |
 |            |                                |vielleicht was mitgebracht? Hmmm       |
@@ -30,7 +30,12 @@
 |!halbespain |Halbes pain oder doppeltes?!    |Halbes Pain ist doppelt so stark wie   |
 |            |                                |Ganzes Pain!                           |
 |------------|--------------------------------|---------------------------------------|
-|!love       |Zeigt den Wert der Liebe        |
+|!love       |Zeigt den Wert der Liebe        |Die Liebe zwischen friesenjunge227     |
+|            |                                |und (Name2) beträgt 91% <3             |
+|------------|--------------------------------|---------------------------------------|
+|!yt         |Sendet den Youtube Link im den  | Hier kommt ihr zum Youtube Kanal ->   |
+|            |Chat.                           |https://www.youtube.com/@Janskii_      |
+|------------|--------------------------------|---------------------------------------|
 
 
 |!nootnoot   |Noot Noot! @Yowo99              |°o° Noot Noot Cheergi                  |
