@@ -22,6 +22,14 @@
 |            |chat.                           | keinen Stream mehr zu verpassen       | 
 |            |                                |-> https://discord.gg/49WrfmkQFW       |
 |------------|--------------------------------|---------------------------------------|
+|!pain       |Signalisiert Schmerz. Oft       |@friesennunge
+|            |psychisch.                      |
+|            |                                |
+|------------|--------------------------------|---------------------------------------|
+|!halbespain |Halbes pain oder doppelt?!      |Halbes Pain ist doppelt so stark wie   |
+|            |                                |Ganzes Pain!                           |
+|------------|--------------------------------|---------------------------------------|
 
 
-
+|!nootnoot   |Noot Noot! @Yowo99              |°o° Noot Noot Cheergi                  |
+|------------|--------------------------------|---------------------------------------|
