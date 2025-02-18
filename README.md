@@ -1,6 +1,7 @@
 # janskii-chat
 
 |command     |Funktion                        |Rückmeldung im chat                    |
+|------------|--------------------------------|---------------------------------------|
 |!lurk       |Gibt dem Streamer feedback, dass|@friesenjunge227, ist eben Kekse holen.|
 |            |man AFK ist.                    |Wehe du bringst keine mit! Madge       |
 |!unlurk     |Hebt den "AFK-Status" auf.      |@friesenjunge227, ist back und hat     |
