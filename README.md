@@ -14,9 +14,11 @@
 |!whatsapp|Sendet den Whatsapp invite in den Chat|Janskii hat nun ne Whatsappgruppe :3 Kommt gerne rein! Es ist alles anonym <3 -> https://whatsapp.com/channel/0029VaMZGgGHFxOxweXHjx0v
 |!insta|Sendet den Instagram link in den Chat.|Hier kommt ihr zu Insta → https://www.instagram.com/janskii_x/|
 |!tiktok|Sendet den tiktok link in den Chat|Hier kommt ihr zu TikTok → https://www.tiktok.com/@janskii_x|
+|!twitter|Sendet den Twitter (X) link im den Chat|Hier kommt ihr zu Twitter → https://twitter.com/Janskii_x
 |!voteskip|Sendet die Anfrage den Aktuellen Song zu überspringen.|Den Song übespringen [#/5]|
 |!skip|Lässt Moderatoren den aktuellen Song übespringen. Wirkt wie !voteskip ohne Berechtigungen|Der Song wurde übersprungen|
-|!twitter|Sendet den Twitter (X) link im den Chat|Hier kommt ihr zu Twitter → https://twitter.com/Janskii_x
+|!minimensch|Erklärung für eine plötzliche Pausenszene.|
+
 
 [raw] (click on raw)
 |command     |Funktion                        |Rückmeldung im chat                    |
@@ -49,3 +51,15 @@
 
 |!nootnoot   |Noot Noot! @Yowo99              |°o° Noot Noot Cheergi                  |
 |------------|--------------------------------|---------------------------------------|
+
+
+
+!guna
+!gumo
+!rad
+!volume
+!q
+!song
+!sp
+!smp
+!malochen
