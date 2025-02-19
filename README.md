@@ -8,7 +8,9 @@
 |!unlurk     |Hebt den "AFK-Status" auf.      |@friesenjunge227, ist back und hat vielleicht was mitgebracht? Hmmm|
 |!dc         |Sendet den Discord-invite in den chat.|Join gerne Janskiis Community Server um keinen Stream mehr zu verpassen ♥ -> https://discord.gg/49WrfmkQFW|
 |!pain       |Signalisiert Schmerz. Oft psychisch.      |friesenjunge227 will nicht mehr. friesenjunge227 kann nicht mehr.                      friesenjunge227 hält das alles nicht  mehr aus.|
-|!halbespain |Halbes pain oder doppeltes?!    |Halbes Pain ist doppelt so stark wie                           Ganzes Pain!    
+|!halbespain |Halbes pain oder doppeltes?!    |Halbes Pain ist doppelt so stark wie                           Ganzes Pain!|
+|!love       |Zeigt den Wert der Liebe        |Die Liebe zwischen friesenjunge227 und (Name2) beträgt ##% <3|
+!yt         |Sendet den Youtube Link in den Chat.|Hier kommt ihr zum Youtube Kanal ->                           https://www.youtube.com/@Janskii_|
 
 [raw] (click on raw)
 |command     |Funktion                        |Rückmeldung im chat                    |
