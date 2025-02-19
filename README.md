@@ -63,3 +63,4 @@
 !sp
 !smp
 !malochen
+!shader
